@@ -1,5 +1,5 @@
 # Bourdieu_App
-### Named Entity Ship model + App of Pierre Bourdieus Theory (2022: early pre-alpha stage)
+### Named Entity Realtionship Model + App of Pierre Bourdieus Theory (2022: early pre-alpha stage)
 
 
 I suffer from schizophrenia since 20 years. The treatment of schizophrenic people from Mental Institution Königsfelden Kanton Aargau mainly consists out of drugging people -- even without consent -- without talking about the situation that caused the current psychosis like eg. "Open Dialog" [1] does.
@@ -16,7 +16,7 @@ I would like to point here to the bachelor thesis of Aida Dizdar [2] because she
 
 that is presumably the task of sociology.
 
-The problem of sociology, which tries to reproduce behaviour in groups or betterto predict them, problem of such things is that if one uses to much parameters the Entity Relationship Model becomes to big and complicated where it ends in denial of service or spam oneself with to much parameters.
+The problem of sociology, which tries to reproduce behaviour in groups or better to predict them, problem of such things is that if one uses to much parameters the Entity Relationship Model becomes to big and complicated where it ends in denial of service or spam oneself with to much parameters.
 
 
 In my opinion, Bourdieu's concept is complex enough to also give the 1% of schizophrenic people a place / illusio to life but does not have the problem of being to bloated.
