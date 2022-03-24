@@ -16,7 +16,7 @@ I would like to point here to the bachelor thesis of Aida Dizdar [2] because she
 
 that is presumably the task of sociology.
 
-The problem of sociology, which tries to reproduce behaviour in groups or betterto predict them, problem of such things is that if one uses to much parameters the Entity Relationship Model becomes to big and complicated where it ends in denial of service or spam oneself with to much parameters.
+The problem of sociology, which tries to reproduce behaviour in groups or better to predict them, problem of such things is that if one uses to much parameters the Entity Relationship Model becomes to big and complicated where it ends in denial of service or spam oneself with to much parameters.
 
 
 In my opinion, Bourdieu's concept is complex enough to also give the 1% of schizophrenic people a place / illusio to life but does not have the problem of being to bloated.
