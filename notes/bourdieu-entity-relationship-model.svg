@@ -311,7 +311,7 @@
          id="tspan29961-1-02"
          style="text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="44.256187"
-         y="72.737816">Feld position</tspan></text>
+         y="72.737816">Feld Role</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -475,5 +475,16 @@
          style="stroke-width:0.264583"
          x="-145.3553"
          y="141.16235">Felder der MAcht, Nico Wild, Sommerhalder an mich abschieben, rosinenpicker, machtmissbrauch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="96.787056"
+       y="147.45177"
+       id="text105501"><tspan
+         sodipodi:role="line"
+         id="tspan105499"
+         style="stroke-width:0.264583"
+         x="96.787056"
+         y="147.45177">cheat a little, truth dishonesty</tspan></text>
   </g>
 </svg>
