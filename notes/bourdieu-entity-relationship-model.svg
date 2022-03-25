@@ -254,23 +254,28 @@
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="203.03543"
-         y="111.83312"
-         id="tspan56340">Dr. Hanno</tspan><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="203.03543"
-         y="118.4477"
+         y="111.83311"
          id="tspan56342">Dr. Adambegan</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="203.03543"
-         y="125.06229"
+         y="118.4477"
          id="tspan56348">Richterin B.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="203.03543"
+         y="125.06229"
+         id="tspan61093">Staatsanwalt</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="203.03543"
          y="131.67688"
-         id="tspan61093">Staatsanwalt</tspan></text>
+         id="tspan86453">Pfleger</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="203.03543"
+         y="138.29146"
+         id="tspan101364">Teddy (virtuell)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -384,7 +389,12 @@
          style="stroke-width:0.264583"
          x="247.76015"
          y="132.02629"
-         id="tspan60234">Bruder</tspan></text>
+         id="tspan60234">Bruder</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="247.76015"
+         y="138.64087"
+         id="tspan96369">Friend 1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -432,5 +442,38 @@
          style="stroke-width:0.264583"
          x="-38.784706"
          y="211.39412">überzahl, mehr macht, machtmittel tendiert zu machtmissbrauch oder auch nur kleinen regelübertretungen mit grossen auswirkungen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="304.33762"
+       y="104.82352"
+       id="text91293"><tspan
+         sodipodi:role="line"
+         id="tspan91291"
+         style="stroke-width:0.264583"
+         x="304.33762"
+         y="104.82352">Kipppunkte</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-62.195293"
+       y="149.19882"
+       id="text95385"><tspan
+         sodipodi:role="line"
+         id="tspan95383"
+         style="stroke-width:0.264583"
+         x="-62.195293"
+         y="149.19882">peter-prinzip -&gt; habitus vertuschen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-145.3553"
+       y="141.16235"
+       id="text104337"><tspan
+         sodipodi:role="line"
+         id="tspan104335"
+         style="stroke-width:0.264583"
+         x="-145.3553"
+         y="141.16235">Felder der MAcht, Nico Wild, Sommerhalder an mich abschieben, rosinenpicker, machtmissbrauch</tspan></text>
   </g>
 </svg>
