@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.53543895"
-     inkscape:cx="816.1528"
-     inkscape:cy="454.76706"
+     inkscape:zoom="1.5144501"
+     inkscape:cx="249.59555"
+     inkscape:cy="861.36878"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -33,7 +33,22 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs27796" />
+     id="defs27796">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path308963" />
+    </marker>
+  </defs>
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
@@ -545,14 +560,14 @@
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="24.458817"
-       y="156.88588"
+       x="17.046673"
+       y="157.38002"
        id="text138759"><tspan
          sodipodi:role="line"
          id="tspan138757"
          style="stroke-width:0.264583"
-         x="24.458817"
-         y="156.88588">so müssten diese menschen zwingen kaltschnäuzigkeit (euphemismus für kaltblütigkeit) entwiickeln</tspan></text>
+         x="17.046673"
+         y="157.38002">so müssten diese menschen zwingen kaltschnäuzigkeit (euphemismus für kaltblütigkeit) entwiickeln</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -659,5 +674,90 @@
          style="stroke-width:0.264583"
          x="190.73915"
          y="133.91272">Feld der Macht: Super Nanny, wieso willst du unseren Hund töten?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="29.15443"
+       y="235.21199"
+       id="text295596"><tspan
+         sodipodi:role="line"
+         id="tspan295594"
+         style="stroke-width:0.264583"
+         x="29.15443"
+         y="235.21199">leute die wollen</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="29.15443"
+         y="241.82658"
+         id="tspan295598">leute die nicht wollen</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="29.15443"
+         y="248.44116"
+         id="tspan295600">leute denen es egal ist</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="29.15443"
+         y="255.05576"
+         id="tspan295602">aber das wäre psycholgoie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="227.79985"
+       y="239.65929"
+       id="text297501"><tspan
+         sodipodi:role="line"
+         id="tspan297499"
+         style="stroke-width:0.264583"
+         x="227.79985"
+         y="239.65929">konflikte die entstehen</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="227.79985"
+         y="246.27388"
+         id="tspan297503">- mit todesstern im keim ersticken</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="227.79985"
+         y="252.88846"
+         id="tspan297505">+ vermitteln, gruppe umteilen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.3547px;line-height:1.25;font-family:sans-serif;stroke-width:0.567733"
+       x="-34.196766"
+       y="225.51936"
+       id="text299276"><tspan
+         sodipodi:role="line"
+         id="tspan299274"
+         style="stroke-width:0.567733"
+         x="-34.196766"
+         y="225.51936">Diejenige die alleine sind</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="18.283285"
+       y="272.27271"
+       id="text301265"><tspan
+         sodipodi:role="line"
+         id="tspan301263"
+         style="stroke-width:0.264583"
+         x="18.283285"
+         y="272.27271">wahrgenommene ungerechtigkeit löst bei mir einen psychotischen schub aus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="45.461143"
+       y="284.62628"
+       id="text306172"><tspan
+         sodipodi:role="line"
+         id="tspan306170"
+         style="stroke-width:0.264583"
+         x="45.461143"
+         y="284.62628">allenfalls gar nicht die quentität der dialoge verbessern sondern die quelität, bzw. wie open dialog bei krisen intervenieren</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 231.753,269.30786 c 61.29157,14.05096 -239.5757456,-0.0327 -212.975572,8.40042 0,0 31.825563,23.95955 34.795563,11.03132"
+       id="path308553"
+       sodipodi:nodetypes="csc" />
   </g>
 </svg>
