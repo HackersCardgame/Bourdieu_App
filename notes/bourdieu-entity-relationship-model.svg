@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.5144501"
-     inkscape:cx="249.59555"
-     inkscape:cy="861.36878"
+     inkscape:zoom="0.75722503"
+     inkscape:cx="653.70264"
+     inkscape:cy="885.46994"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -662,7 +662,12 @@
          style="stroke-width:0.264583"
          x="227.99117"
          y="185.81435"
-         id="tspan267654">- medikamentengläubig (keine Kritik am psychiater)</tspan></text>
+         id="tspan267654">- medikamentengläubig (keine Kritik am psychiater)</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="227.99117"
+         y="192.42892"
+         id="tspan312891">- gruppe selbstschutz nicht für wenn grad psychotisch, aber wer hilft dann den psychotischen</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -759,5 +764,43 @@
        d="m 231.753,269.30786 c 61.29157,14.05096 -239.5757456,-0.0327 -212.975572,8.40042 0,0 31.825563,23.95955 34.795563,11.03132"
        id="path308553"
        sodipodi:nodetypes="csc" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="77.220001"
+       y="290.71057"
+       id="text309860"><tspan
+         sodipodi:role="line"
+         id="tspan309858"
+         style="stroke-width:0.264583"
+         x="77.220001"
+         y="290.71057">Menschen auf einem Feld der macht machen psychotsicher,</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="77.220001"
+         y="297.32516"
+         id="tspan309862">wenn ein niemand ungerecht ist schlimm aber keine folgen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="343.82117"
+       y="201.26118"
+       id="text316499"><tspan
+         sodipodi:role="line"
+         id="tspan316497"
+         style="stroke-width:0.264583"
+         x="343.82117"
+         y="201.26118">die psychiatrie, aber das  macht schizos nur noch psychotischer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="217.68353"
+       y="220.12941"
+       id="text326955"><tspan
+         sodipodi:role="line"
+         id="tspan326953"
+         style="stroke-width:0.264583"
+         x="217.68353"
+         y="220.12941">professionalisierung =&gt; auf andere herunter sehen</tspan></text>
   </g>
 </svg>
