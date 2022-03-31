@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.75722502"
-     inkscape:cx="239.69097"
-     inkscape:cy="849.81344"
+     inkscape:zoom="1.0708779"
+     inkscape:cx="169.48711"
+     inkscape:cy="965.09602"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -1307,5 +1307,16 @@
          style="stroke-width:0.264583"
          x="-9.4341183"
          y="317.26587">Darstellung als Familinbrett aber nciht den namen nemen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-6.9180002"
+       y="328.85211"
+       id="text150820"><tspan
+         sodipodi:role="line"
+         id="tspan150818"
+         style="stroke-width:0.264583"
+         x="-6.9180002"
+         y="328.85211">Pagerank / Mutual Friends &lt;=?=&gt; Sichtbarkeit</tspan></text>
   </g>
 </svg>
