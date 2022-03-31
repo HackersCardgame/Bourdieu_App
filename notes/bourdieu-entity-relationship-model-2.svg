@@ -1318,5 +1318,21 @@
          style="stroke-width:0.264583"
          x="-6.9180002"
          y="328.85211">Pagerank / Mutual Friends &lt;=?=&gt; Sichtbarkeit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.68147px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.142037"
+       x="-155.60364"
+       y="203.32161"
+       id="text155677"><tspan
+         sodipodi:role="line"
+         id="tspan155675"
+         style="stroke-width:0.142037"
+         x="-155.60364"
+         y="203.32161">social suicide prediction</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.142037"
+         x="-155.60364"
+         y="210.42345"
+         id="tspan155679">https://informatics.bmj.com/content/27/3/e100175</tspan></text>
   </g>
 </svg>
