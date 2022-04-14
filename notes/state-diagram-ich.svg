@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg9325"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="state-diagram-ich.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9327"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="0.75633418"
+     inkscape:cx="461.43624"
+     inkscape:cy="591.0086"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs9322">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path23711" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path23711-3" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       id="rect9408"
+       width="193.45229"
+       height="149.37456"
+       x="8.7455826"
+       y="69.964661" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.0721px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551804"
+       x="31.59782"
+       y="68.271927"
+       id="text10424"><tspan
+         sodipodi:role="line"
+         id="tspan10422"
+         style="stroke-width:0.551804"
+         x="31.59782"
+         y="68.271927">State Diagram</tspan></text>
+    <circle
+       style="fill:#ffffff;stroke:#008000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       id="path10894"
+       cx="53.173145"
+       cy="126.28622"
+       r="31.484098" />
+    <circle
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       id="path10894-6"
+       cx="158.12013"
+       cy="145.52649"
+       r="31.484098" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.52428px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.163107"
+       x="53.150867"
+       y="121.08213"
+       id="text11726"><tspan
+         sodipodi:role="line"
+         id="tspan11724"
+         style="text-align:center;text-anchor:middle;stroke-width:0.163107"
+         x="53.150867"
+         y="121.08213">Selbsthilfe / </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.163107"
+         x="53.150867"
+         y="129.23749"
+         id="tspan11728">Suizidprävention</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.163107"
+         x="53.150867"
+         y="137.39284"
+         id="tspan11730">aufbauen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.91955px;line-height:1.05;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0979891"
+       x="105.17117"
+       y="207.07858"
+       id="text14868"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0979891"
+         x="105.17117"
+         y="207.07858"
+         id="tspan18044">#Suizidprävention setzt voraus, dass Menschen die vorsätzlich (Dunkle Triade) </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0979891"
+         x="105.17117"
+         y="211.19411"
+         id="tspan18048">oder fahrlässig Suizide auslösen zur Rächenschaft  gezogen werden oder mindestens dazu gebracht</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0979891"
+         x="105.17117"
+         y="215.30965"
+         id="tspan23302">werden sensibler zu sein</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.48436px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.212109"
+       x="135.21616"
+       y="141.13272"
+       id="text22134"><tspan
+         sodipodi:role="line"
+         id="tspan22132"
+         style="stroke-width:0.212109"
+         x="135.21616"
+         y="141.13272">Psychotisch</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.641865;stroke-linejoin:round;stop-color:#000000"
+       id="rect23406"
+       width="26.944704"
+       height="6.7361755"
+       x="95.322701"
+       y="77.131889" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.641865;stroke-linejoin:round;stop-color:#000000"
+       id="rect23406-1"
+       width="26.944704"
+       height="6.7361755"
+       x="95.322708"
+       y="83.868065" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.641865;stroke-linejoin:round;stop-color:#000000"
+       id="rect23406-9"
+       width="26.944704"
+       height="6.7361755"
+       x="95.322708"
+       y="90.60424" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.641865;stroke-linejoin:round;stop-color:#000000"
+       id="rect23406-0"
+       width="26.944704"
+       height="6.7361755"
+       x="95.322701"
+       y="97.340416" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 83.957596,120.33922 c 21.612114,-12.71267 37.842004,-9.27866 51.074204,3.14841"
+       id="path23569"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-4)"
+       d="m 127.13955,151.59974 c -21.61212,12.71267 -37.842016,9.27866 -51.074216,-3.14841"
+       id="path23569-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 107.74558,104.947 v 6.64664"
+       id="path24749" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.71077px;line-height:0.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.428307"
+       x="126.16616"
+       y="84.076019"
+       id="text26307"><tspan
+         sodipodi:role="line"
+         id="tspan26305"
+         style="font-size:5.71077px;stroke-width:0.428307"
+         x="126.16616"
+         y="84.076019">Quene von</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.71077px;stroke-width:0.428307"
+         x="126.16616"
+         y="89.501251"
+         id="tspan26309">Hiobsbotschaften</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.71077px;stroke-width:0.428307"
+         x="126.16616"
+         y="94.926483"
+         id="tspan26311">die mich psychotsich</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.71077px;stroke-width:0.428307"
+         x="126.16616"
+         y="100.35172"
+         id="tspan26313">machen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.71077px;line-height:0.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.428307"
+       x="85.921165"
+       y="173.63078"
+       id="text26307-8"><tspan
+         sodipodi:role="line"
+         style="font-size:5.71077px;stroke-width:0.428307"
+         x="85.921165"
+         y="173.63078"
+         id="tspan28677">Menschen</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.71077px;stroke-width:0.428307"
+         x="85.921165"
+         y="179.05602"
+         id="tspan28945">die helfen</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.71077px;stroke-width:0.428307"
+         x="85.921165"
+         y="184.48125"
+         id="tspan28947">meine Psyche</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.71077px;stroke-width:0.428307"
+         x="85.921165"
+         y="189.90648"
+         id="tspan28949">zu stabilisieren</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.84805,159.51943 v 9.09541"
+       id="path29685" />
+  </g>
+</svg>
