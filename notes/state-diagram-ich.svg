@@ -28,8 +28,8 @@
      showgrid="false"
      showguides="false"
      inkscape:zoom="2.1392361"
-     inkscape:cx="338.43857"
-     inkscape:cy="421.64584"
+     inkscape:cx="869.9367"
+     inkscape:cy="369.75816"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -108,25 +108,67 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path23711-3" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path23711-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-4-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path23711-3-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path23717-1" />
+    </marker>
   </defs>
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.24393;stroke-linejoin:round;stop-color:#000000"
        id="rect9408"
-       width="193.45229"
+       width="299.33936"
        height="149.37456"
-       x="8.7455826"
+       x="8.9181576"
        y="69.964661"
        inkscape:export-filename="C:\Users\marc\text33150.png"
        inkscape:export-xdpi="261.25"
        inkscape:export-ydpi="261.25" />
     <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.369425;stroke-linejoin:round;stop-color:#000000"
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.459538;stroke-linejoin:round;stop-color:#000000"
        id="rect38922"
-       width="194.08286"
+       width="300.31509"
        height="20.319622"
        x="8.430294"
        y="-69.279938"
@@ -137,7 +179,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.0721px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551804"
-       x="31.59782"
+       x="84.878067"
        y="68.271927"
        id="text10424"
        inkscape:export-filename="C:\Users\marc\text33150.png"
@@ -146,7 +188,7 @@
          sodipodi:role="line"
          id="tspan10422"
          style="stroke-width:0.551804"
-         x="31.59782"
+         x="84.878067"
          y="68.271927">State Diagram</tspan></text>
     <circle
        style="fill:#ffffff;stroke:#008000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
@@ -228,6 +270,29 @@
          style="stroke-width:0.212109"
          x="135.21616"
          y="141.13272">psychotisch</tspan></text>
+    <circle
+       style="fill:#ffffff;stroke:#800080;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       id="path10894-6-5"
+       cx="263.19363"
+       cy="157.32251"
+       r="31.484098"
+       inkscape:export-filename="C:\Users\marc\text33150.png"
+       inkscape:export-xdpi="261.25"
+       inkscape:export-ydpi="261.25" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.48436px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.212109"
+       x="240.28966"
+       y="152.92874"
+       id="text22134-0"
+       inkscape:export-filename="C:\Users\marc\text33150.png"
+       inkscape:export-xdpi="261.25"
+       inkscape:export-ydpi="261.25"><tspan
+         sodipodi:role="line"
+         id="tspan22132-4"
+         style="stroke-width:0.212109"
+         x="240.28966"
+         y="152.92874">Suizidal</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.641865;stroke-linejoin:round;stop-color:#000000"
        id="rect23406"
@@ -280,6 +345,22 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-4)"
        d="m 127.13955,151.59974 c -21.61212,12.71267 -37.842016,9.27866 -51.074216,-3.14841"
        id="path23569-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\marc\text33150.png"
+       inkscape:export-xdpi="261.25"
+       inkscape:export-ydpi="261.25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-6)"
+       d="m 188.18469,131.36388 c 21.61211,-12.71267 37.842,-9.27866 51.0742,3.14841"
+       id="path23569-5"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\marc\text33150.png"
+       inkscape:export-xdpi="261.25"
+       inkscape:export-ydpi="261.25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-4-7)"
+       d="m 233.84026,169.05582 c -21.61212,12.71267 -37.84201,9.27866 -51.07421,-3.14841"
+       id="path23569-7-7"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="C:\Users\marc\text33150.png"
        inkscape:export-xdpi="261.25"
@@ -454,5 +535,157 @@
          x="97.393127"
          y="102.83334"
          id="tspan6376">schreiben</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.287913px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93.094766,77.188714 c -6.049633,0.449668 0.556951,9.544745 -5.114312,13.593301"
+       id="path9078"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.287913px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93.094766,104.37531 c -6.049633,-0.44967 0.556951,-9.544738 -5.114312,-13.593295"
+       id="path9335"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.91685px;line-height:0.75;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.122921"
+       x="62.122398"
+       y="84.620293"
+       id="text10615"><tspan
+         sodipodi:role="line"
+         id="tspan10613"
+         style="stroke-width:0.122921"
+         x="62.122398"
+         y="84.620293">Cluster</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.122921"
+         x="62.122398"
+         y="88.30793"
+         id="tspan10617">von</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.122921"
+         x="62.122398"
+         y="91.995567"
+         id="tspan10619">Problemen</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.641865;stroke-linejoin:round;stop-color:#000000"
+       id="rect23406-99"
+       width="26.944704"
+       height="6.7361755"
+       x="201.17621"
+       y="88.045288"
+       inkscape:export-filename="C:\Users\marc\text33150.png"
+       inkscape:export-xdpi="261.25"
+       inkscape:export-ydpi="261.25" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.641865;stroke-linejoin:round;stop-color:#000000"
+       id="rect23406-1-0"
+       width="26.944704"
+       height="6.7361755"
+       x="201.17622"
+       y="94.781464"
+       inkscape:export-filename="C:\Users\marc\text33150.png"
+       inkscape:export-xdpi="261.25"
+       inkscape:export-ydpi="261.25" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.641865;stroke-linejoin:round;stop-color:#000000"
+       id="rect23406-9-7"
+       width="26.944704"
+       height="6.7361755"
+       x="201.17622"
+       y="101.51764"
+       inkscape:export-filename="C:\Users\marc\text33150.png"
+       inkscape:export-xdpi="261.25"
+       inkscape:export-ydpi="261.25" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.641865;stroke-linejoin:round;stop-color:#000000"
+       id="rect23406-0-9"
+       width="26.944704"
+       height="6.7361755"
+       x="201.17621"
+       y="108.25381"
+       inkscape:export-filename="C:\Users\marc\text33150.png"
+       inkscape:export-xdpi="261.25"
+       inkscape:export-ydpi="261.25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-3)"
+       d="m 213.59909,115.8604 v 6.64664"
+       id="path24749-3"
+       inkscape:export-filename="C:\Users\marc\text33150.png"
+       inkscape:export-xdpi="261.25"
+       inkscape:export-ydpi="261.25" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:0.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="203.93272"
+       y="92.419319"
+       id="text2003-6"><tspan
+         sodipodi:role="line"
+         id="tspan2001-88"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="203.93272"
+         y="92.419319">Claudines nicht gehaltenes(?) Versprechen</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="203.93272"
+         y="95.770714"
+         id="tspan30564" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="203.93272"
+         y="99.122101"
+         id="tspan30566">Grund weshalb ich beziehungsunfähig bin</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="203.93272"
+         y="102.4735"
+         id="tspan38778" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="203.93272"
+         y="105.82488"
+         id="tspan38780">sie 2001: &quot;Ich will nicht dass Du bezeihungsunfähig wirst&quot;</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="203.93272"
+         y="109.17628"
+         id="tspan38782" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="203.93272"
+         y="112.52766"
+         id="tspan38784">war das Zynismus und Blums sind neben Nazis auch Soziophaten?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.61162px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.195871"
+       x="203.40315"
+       y="97.794304"
+       id="text2003-4-0"><tspan
+         sodipodi:role="line"
+         style="font-size:2.61162px;stroke-width:0.195871"
+         x="203.40315"
+         y="97.794304"
+         id="tspan4734-7" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.61162px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.195871"
+       x="202.9379"
+       y="104.53319"
+       id="text2003-4-5-2"><tspan
+         sodipodi:role="line"
+         style="font-size:2.61162px;stroke-width:0.195871"
+         x="202.9379"
+         y="104.53319"
+         id="tspan5990-9" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.61162px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.195871"
+       x="203.24664"
+       y="111.52686"
+       id="text2003-4-5-5-5"><tspan
+         sodipodi:role="line"
+         style="font-size:2.61162px;stroke-width:0.195871"
+         x="203.24664"
+         y="111.52686"
+         id="tspan6376-0" /></text>
   </g>
 </svg>
