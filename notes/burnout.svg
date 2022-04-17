@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.62097794"
-     inkscape:cx="754.45515"
-     inkscape:cy="533.03021"
+     inkscape:zoom="3.5127817"
+     inkscape:cx="1174.1407"
+     inkscape:cy="645.64218"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -46,15 +46,18 @@
        height="257.43066"
        x="37.217422"
        y="29.145555"
-       inkscape:export-filename="C:\Users\marc\rect20246.png"
-       inkscape:export-xdpi="194.48"
-       inkscape:export-ydpi="194.48" />
+       inkscape:export-filename="C:\Users\marc\burnout.png"
+       inkscape:export-xdpi="133.36"
+       inkscape:export-ydpi="133.36" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20.5516px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.51379"
        x="56.90472"
        y="58.649048"
-       id="text3554"><tspan
+       id="text3554"
+       inkscape:export-filename="C:\Users\marc\burnout.png"
+       inkscape:export-xdpi="133.36"
+       inkscape:export-ydpi="133.36"><tspan
          sodipodi:role="line"
          id="tspan3552"
          style="stroke-width:0.51379;font-weight:bold"
@@ -65,7 +68,10 @@
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="80.742432"
        y="85.551376"
-       id="text3554-1"><tspan
+       id="text3554-1"
+       inkscape:export-filename="C:\Users\marc\burnout.png"
+       inkscape:export-xdpi="133.36"
+       inkscape:export-ydpi="133.36"><tspan
          sodipodi:role="line"
          id="tspan3552-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.264583"
@@ -115,19 +121,28 @@
        style="fill:none;stroke:#ff0000;stroke-width:0.251227px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 77.301057,77.190063 c -6.88286,1.12201 -1.020254,13.533711 -6.651328,13.867711"
        id="path40980"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\marc\burnout.png"
+       inkscape:export-xdpi="133.36"
+       inkscape:export-ydpi="133.36" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.251227px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 77.301057,104.92549 C 70.418197,103.80348 76.280803,91.391774 70.649729,91.057774"
        id="path41233"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\marc\burnout.png"
+       inkscape:export-xdpi="133.36"
+       inkscape:export-ydpi="133.36" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.14125px;line-height:0.85;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.128531"
        x="-90.386848"
        y="60.205589"
        id="text42183"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\marc\burnout.png"
+       inkscape:export-xdpi="133.36"
+       inkscape:export-ydpi="133.36"><tspan
          sodipodi:role="line"
          id="tspan42181"
          style="text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.128531"
@@ -142,16 +157,25 @@
        style="fill:none;stroke:#800000;stroke-width:0.251227px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 77.301057,112.75737 c -6.88286,1.12201 -1.020254,13.53371 -6.651328,13.86771"
        id="path40980-8"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\marc\burnout.png"
+       inkscape:export-xdpi="133.36"
+       inkscape:export-ydpi="133.36" />
     <path
        style="fill:none;stroke:#800000;stroke-width:0.251227px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 77.301057,140.49279 c -6.88286,-1.12201 -1.020254,-13.53371 -6.651329,-13.86771"
        id="path41233-4"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\marc\burnout.png"
+       inkscape:export-xdpi="133.36"
+       inkscape:export-ydpi="133.36" />
     <g
        id="g56554"
        transform="matrix(0,-4.2514361,-11.464375,0,2172.6181,736.30648)"
-       style="stroke:#ff0000;stroke-width:0.113695;stroke-miterlimit:4;stroke-dasharray:none">
+       style="stroke:#ff0000;stroke-width:0.113695;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\marc\burnout.png"
+       inkscape:export-xdpi="133.36"
+       inkscape:export-ydpi="133.36">
       <path
          style="fill:none;stroke:#ff0000;stroke-width:0.113695;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 139.08892,154.95446 c -6.88286,1.12201 -1.02026,13.53371 -6.65133,13.86771"
@@ -169,7 +193,10 @@
        x="-127.01249"
        y="60.205589"
        id="text42183-4"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\marc\burnout.png"
+       inkscape:export-xdpi="133.36"
+       inkscape:export-ydpi="133.36"><tspan
          sodipodi:role="line"
          id="tspan42181-4"
          style="text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.128531"
@@ -186,13 +213,19 @@
        width="331.74222"
        height="31.569855"
        x="71.306328"
-       y="245.61224" />
+       y="245.61224"
+       inkscape:export-filename="C:\Users\marc\burnout.png"
+       inkscape:export-xdpi="133.36"
+       inkscape:export-ydpi="133.36" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5258px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.263146"
        x="83.158401"
        y="258.8161"
-       id="text56089"><tspan
+       id="text56089"
+       inkscape:export-filename="C:\Users\marc\burnout.png"
+       inkscape:export-xdpi="133.36"
+       inkscape:export-ydpi="133.36"><tspan
          sodipodi:role="line"
          id="tspan56087"
          style="stroke-width:0.263146"
@@ -208,7 +241,10 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.85;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="237.39439"
        y="189.40213"
-       id="text57852"><tspan
+       id="text57852"
+       inkscape:export-filename="C:\Users\marc\burnout.png"
+       inkscape:export-xdpi="133.36"
+       inkscape:export-ydpi="133.36"><tspan
          sodipodi:role="line"
          style="text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
          x="237.39439"
@@ -251,5 +287,31 @@
          x="237.39439"
          y="234.38115"
          id="tspan62132">Menschen auch wie die 90% zu benehmen.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.17332px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.104333"
+       x="266.70273"
+       y="160.01953"
+       id="text103616"><tspan
+         sodipodi:role="line"
+         id="tspan103614"
+         style="stroke-width:0.104333"
+         x="266.70273"
+         y="160.01953">ja man gibt sich als schizo oder als depressiver mühe so zu wirken</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.104333"
+         x="266.70273"
+         y="165.23618"
+         id="tspan103618">wie wenn man normal ist, mit viel Aufwand, man ist aber vulnerabler</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.104333"
+         x="266.70273"
+         y="170.45284"
+         id="tspan103620">und die nicht einfühlsamen menschen merken das nicht oder</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.104333"
+         x="266.70273"
+         y="175.66948"
+         id="tspan103622">wollen das nicht merken</tspan></text>
   </g>
 </svg>
