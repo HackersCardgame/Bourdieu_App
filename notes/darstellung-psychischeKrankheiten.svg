@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="darstellung-psychischeKrankheiten.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6454563"
+     inkscape:cx="338.50792"
+     inkscape:cy="457.62381"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1122" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1119" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.507418;fill:#aaaaff;fill-rule:evenodd;stroke-width:1.065;stroke-linejoin:round;stop-color:#000000"
+       id="rect11484"
+       width="136.83768"
+       height="100.17611"
+       x="28.943338"
+       y="84.096481"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="C:\Users\marc\rect11484.png"
+       inkscape:export-xdpi="371.23999"
+       inkscape:export-ydpi="371.23999" />
+    <path
+       style="fill:#55ddff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.5074184"
+       d="m 109.5023,108.17572 -5.98967,21.94871 0.44219,14.35106 -17.566995,-4.46209 4.663092,-9.80858 -2.050151,-6.35146 z"
+       id="path10461"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\marc\rect11484.png"
+       inkscape:export-xdpi="371.23999"
+       inkscape:export-ydpi="371.23999" />
+    <path
+       style="opacity:0.605341;fill:#dd55ff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 109.5023,108.17572 0.76378,21.94871 -10.652761,8.1604 -21.988894,13.78829 8.361408,-21.7879 6.63285,-1.68837 z"
+       id="path9976"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\marc\rect11484.png"
+       inkscape:export-xdpi="371.23999"
+       inkscape:export-ydpi="371.23999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="M 57.720848,130.13427 H 129.43463"
+       id="path857"
+       inkscape:export-filename="C:\Users\marc\rect11484.png"
+       inkscape:export-xdpi="371.23999"
+       inkscape:export-ydpi="371.23999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="M 72.501587,101.12544 114.65389,159.1431"
+       id="path939"
+       inkscape:export-filename="C:\Users\marc\rect11484.png"
+       inkscape:export-xdpi="371.23999"
+       inkscape:export-ydpi="371.23999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="M 72.501587,159.1431 114.65389,101.12544"
+       id="path941"
+       inkscape:export-filename="C:\Users\marc\rect11484.png"
+       inkscape:export-xdpi="371.23999"
+       inkscape:export-ydpi="371.23999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="133.94333"
+       y="130.5666"
+       id="text3331"
+       inkscape:export-filename="C:\Users\marc\rect11484.png"
+       inkscape:export-xdpi="371.23999"
+       inkscape:export-ydpi="371.23999"><tspan
+         sodipodi:role="line"
+         id="tspan3329"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="133.94333"
+         y="130.5666">Autismus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="116.95834"
+       y="99.046516"
+       id="text3331-6"
+       inkscape:export-filename="C:\Users\marc\rect11484.png"
+       inkscape:export-xdpi="371.23999"
+       inkscape:export-ydpi="371.23999"><tspan
+         sodipodi:role="line"
+         id="tspan3329-5"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="116.95834"
+         y="99.046516">Schizophrenie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="54.427982"
+       y="99.485367"
+       id="text3331-6-2"
+       inkscape:export-filename="C:\Users\marc\rect11484.png"
+       inkscape:export-xdpi="371.23999"
+       inkscape:export-ydpi="371.23999"><tspan
+         sodipodi:role="line"
+         id="tspan3329-5-1"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="54.427982"
+         y="99.485367">Borderline</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="46.201122"
+       y="131.08554"
+       id="text3331-6-2-1"
+       inkscape:export-filename="C:\Users\marc\rect11484.png"
+       inkscape:export-xdpi="371.23999"
+       inkscape:export-ydpi="371.23999"><tspan
+         sodipodi:role="line"
+         id="tspan3329-5-1-6"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="46.201122"
+         y="131.08554">ADHS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.761787"
+       y="162.85971"
+       id="text3331-6-2-1-8"
+       inkscape:export-filename="C:\Users\marc\rect11484.png"
+       inkscape:export-xdpi="371.23999"
+       inkscape:export-ydpi="371.23999"><tspan
+         sodipodi:role="line"
+         id="tspan3329-5-1-6-8"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="53.761787"
+         y="162.85971">Depression</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="113.73882"
+       y="163.5029"
+       id="text9731"
+       inkscape:export-filename="C:\Users\marc\rect11484.png"
+       inkscape:export-xdpi="371.23999"
+       inkscape:export-ydpi="371.23999"><tspan
+         sodipodi:role="line"
+         id="tspan9729"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="113.73882"
+         y="163.5029">Essstörung</tspan></text>
+  </g>
+</svg>
