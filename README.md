@@ -60,8 +60,16 @@ i have good and bad times:
     * someone really hurt me, existencial crisis
     * in such situations only people i really trust can help me
 
+each special interest (no matter if autistic or schizophrenic) needs his/her own person that selects the relevant topics to fill out the matching table
+eg. Computer Science: Rust, Algorithms, C, Chess, 3D ...
+eg. Religion: there i can not do the lists, maybe main religion, Noahidism, catholic chronicles ...
 
+Whitgenstein would call it "Sprachspiele" but with symbols and content. Each kid needs someone to play with, otherwise it's likely that it gets more paranoid, that it more ran a way noone else can bring him/her back from, because they dont know the sources and the logic behind
 
+finding other peoples that have similar interests would possibly stabilize and give the person at least some people to talk about
+* tought required is "Rückzugsmöglichkeit"
+* required is some personnel that acts when things go completely wrong
+* required would be that normal society accepts that this sort of people is different, no matter if autistic or schizophrenic
 
 ![https://github.com/HackersCardgame/Bourdieu_App/blob/main/schizophrenic.png](https://github.com/HackersCardgame/Bourdieu_App/blob/main/schizophrenic.png)
 
