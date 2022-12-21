@@ -74,3 +74,8 @@ finding other peoples that have similar interests would possibly stabilize and g
 ![https://github.com/HackersCardgame/Bourdieu_App/blob/main/schizophrenic.png](https://github.com/HackersCardgame/Bourdieu_App/blob/main/schizophrenic.png)
 
 for my case, i talk often about cyberwar or electronical psychological warfare, if you are completely isolatet because even your parents dont want to talk with you psyche suffers from the lonelyness, and that is some sort of psychological warfare.
+
+we need also a tutorial or best practices how to treat a person with schizophrenia or autism, it is widely accepted, that this sort of people is more vulnerable, so it would be benefical for all to respact that like we respect special threatment of people in wheel chairs
+* don't isolate completely
+* try to understand his/her point of view, he or she invests a lot of time for their content, just saying "thats crazy" is an insult and isolates this person more
+* don't be partner of him or her without taking care of him/her, because relaizing that there is a lucky life with another person and then one throws away the patient makes the situation for the patient much much more worse and worst case resulting 1000s of suicide attempts because of the separation, and above, isolates him/here more
