@@ -73,4 +73,4 @@ finding other peoples that have similar interests would possibly stabilize and g
 
 ![https://github.com/HackersCardgame/Bourdieu_App/blob/main/schizophrenic.png](https://github.com/HackersCardgame/Bourdieu_App/blob/main/schizophrenic.png)
 
-
+for my case, i talk often about cyberwar or electronical psychological warfare, if you are completely isolatet because even your parents dont want to talk with you psyche suffers from the lonelyness, and that is some sort of psychological warfare.
