@@ -79,3 +79,4 @@ we need also a tutorial or best practices how to treat a person with schizophren
 * don't isolate completely
 * try to understand his/her point of view, he or she invests a lot of time for their content, just saying "thats crazy" is an insult and isolates this person more
 * don't be partner of him or her without taking care of him/her, because relaizing that there is a lucky life with another person and then one throws away the patient makes the situation for the patient much much more worse and worst case resulting 1000s of suicide attempts because of the separation, and above, isolates him/here more
+* normally noone would like to take responsability for such a patient like autistic people are often left alone with their worldview by the age of 10, someone should take responsibility, i try to take responsibility, and it would be nice to have some sort of a class room or other places where the patients can meet and greet and organize self-help for them and others
