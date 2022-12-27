@@ -11,7 +11,7 @@ so the idea is to write some sort of Application with an easy to use user-interf
 the website shall consist of a backend [for the momenet i think this will be LAMP] and a nice GUI [for the moment i think this will be a fancy javascript app]
 
 
-I would like to point here to the bachelor thesis of Aida Dizdar [2] because she already describes roughly what such a software should do and thanks to her bachelor thesis I had the idea of writing such a software.
+I would like to point here to the bachelor thesis of Aida Dizdar [2] because she already describes roughly what such a software should do and thanks to her bachelor thesis I had the idea of writing such a software to macht them for compatibility reasons.
 
 
 that is presumably the task of sociology.
@@ -83,3 +83,46 @@ we need also a tutorial or best practices how to treat a person with schizophren
 * keep in mind, that in a city with 20'000 people and 1% has autism or schizophrenia that then you have only 200 other mates with the same desease, and maybe the would like to play with same-age people, so it would be reduced to potentially only 20 people with the same desease, but maybe not with the same interest
 * lack of contacts and interaction they will end up in conspiracy theories and even promote theories that sound plausible to them
 * Then there will be the kind of patients who slip into drug use (self-medication) or who are prescribed questionable drugs by psychiatrists that promote ignorance, for example. This should be done better. even without drugs brain works differenitly and produces more dopamine, and longing for the next hight would be some sort of addiction, even without drugs - patients should learn to reflect and learn not primarly to listen to this feelings
+
+Literature:
+(so far only german)
+
+Zur Feldtheorie von Pierre Bourdieu:
+
+https://de.wikipedia.org/wiki/Soziales_Feld
+https://de.wikipedia.org/wiki/Habitus_(Soziologie)
+https://de.wikipedia.org/wiki/Illusio
+https://de.wikipedia.org/wiki/Kapitalsorten
+https://de.wikipedia.org/wiki/Soziales_Kapital#Bourdieu_(1983)
+https://de.wikipedia.org/wiki/Politisches_Feld
+https://de.wikipedia.org/wiki/Symbolische_Gewalt
+
+Bzw. wer das richtig lesen will, detailierter beschrieben in:
+
+ISBN: 978-3-593-41310-5
+
+Pierre Bourdieu -- Eva Barlösius
+https://www.exlibris.ch/de/buecher-buch/e-books-deutsch/eva-barloesius/pierre-bourdieu/id/9783593413105
+
+ISBN: 978-3-8463-4233-6
+
+Pierre Bourdieu -- Werner Fuchs-Heinritz / Alexandra König
+https://www.exlibris.ch/de/buecher-buch/e-books-deutsch/werner-fuchs-heinritz/pierre-bourdieu/id/9783846342336
+
+das von Fuchs/König ist besser, beide sind relativ anstrengend zum lesen weil viele Fremdwörter
+
+ISBN: 978-3-593-43416-2
+
+Affektives Kapital -- Otto Penz / Birgit Sauer
+https://www.exlibris.ch/de/buecher-buch/e-books-deutsch/otto-penz/affektives-kapital/id/9783593434162
+
+=> Das "Affektive Kapital" ist eine Erweiterung von Bourdieus Theorie nicht von Bourdieu selber.
+
+Auf Bourdieu gekommen bin ich dank der Bachelor Arbeit von Aida Dizdar:
+https://files.www.soziothek.ch/source/FHNW%20Bachelor-Thesen/Soziale%20Integration%20und%20Inklusion_Dizdar.pdf
+
+und das hier gehört irgendwie auch noch dazu:
+
+ISBN: 978-3-658-06637-6
+»... daß die offizielle Soziologie versagt hat« -- Silke van Dyk / Alexandra Schauer
+https://www.exlibris.ch/de/buecher-buch/e-books-deutsch/silke-van-dyk/-dass-die-offizielle-soziologie-versagt-hat/id/9783658066376
